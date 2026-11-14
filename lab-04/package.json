@@ -1,0 +1,17 @@
+{
+  "name": "lab-04-registration-login-jwt",
+  "version": "1.0.0",
+  "description": "Registration, Login and JWT Authentication API using Node.js, Express.js, SQLite, bcrypt and jsonwebtoken",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "setup": "node setupDb.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  }
+}

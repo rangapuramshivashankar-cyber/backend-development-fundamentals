@@ -13,4 +13,5 @@ Coursework repository for **Backend Development Fundamentals** (Year II, Term II
 - `lab-01/` - Introduction to Node.js & HTTP Server
 - `lab-02/` - Express.js Routing & SQLite Fundamentals
 - `lab-03/` - REST API, query parameters, validation, debugging
+- `lab-04/` - Registration, login and JWT
 - `...`
